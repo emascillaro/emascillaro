@@ -3,6 +3,7 @@
 I'm Emma Mascillaro (She/Her), a graduate from Olin College of Engineering, with
 a degree in Electrical and Computer Engineering.
 
+Portfolio: https://emascillaro.github.io/emma-mascillaro-portfolio/<br />
 LinkedIn: https://www.linkedin.com/in/emma-mascillaro/
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
