@@ -1,10 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Emma Mascillaro (She/Her), a graduate from Olin College of Engineering, with
 a degree in Electrical and Computer Engineering.
 
-Portfolio: https://emascillaro.github.io/emma-mascillaro-portfolio/<br />
-LinkedIn: https://www.linkedin.com/in/emma-mascillaro/
+[![Linkedin](https://img.shields.io/badge/LinkedIn-00599C?)](https://www.linkedin.com/emascillaro)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=firefox&logoColor=#FF7139)](https://emascillaro.github.io/emma-mascillaro-portfolio)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:emascillaro@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white)](https://github.com/emascillaro)
+
+---
+
+### 🧰 Languages and Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -16,6 +22,17 @@ LinkedIn: https://www.linkedin.com/in/emma-mascillaro/
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+
+---
+
+### 📊 Stats
+
+<a href="https://github.com/emascillaro/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=emascillaro&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/emascillaro/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emascillaro&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **emascillaro/emascillaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
